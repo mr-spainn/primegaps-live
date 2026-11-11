@@ -1,13 +1,13 @@
 {
- "stand": "2026-11-11T20:50:13+01:00",
+ "stand": "2026-11-11T21:00:17+01:00",
  "laeuft": true,
  "worker": 6,
- "bloecke_erledigt": 1152243,
+ "bloecke_erledigt": 1153012,
  "bloecke_gesamt": 2000000,
- "anteil": 0.576121,
+ "anteil": 0.576506,
  "erreicht_bis": 94776250000000000,
- "zahlen_pro_s": 6091511654,
- "fertig_ca": "2026-11-19T22:07+01:00",
+ "zahlen_pro_s": 6170034142,
+ "fertig_ca": "2026-11-19T19:39+01:00",
  "treffer": [
   {
    "luecke": 924,
@@ -3944,6 +3944,10 @@
   {
    "luecke": 984,
    "start": 95749194027960533
+  },
+  {
+   "luecke": 1072,
+   "start": 95763031232029729
   }
  ]
 }
