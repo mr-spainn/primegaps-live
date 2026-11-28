@@ -1,17 +1,17 @@
 {
- "stand": "2026-11-28T13:43:01+01:00",
+ "stand": "2026-11-28T13:53:05+01:00",
  "laeuft": true,
  "worker": 8,
  "bereich_start": 80000000000000000,
  "bereich_ende": 90000000000000000,
  "phase": "suche",
- "bloecke_erledigt": 778500,
- "bloecke_ausgewertet": 778500,
+ "bloecke_erledigt": 780089,
+ "bloecke_ausgewertet": 780089,
  "bloecke_gesamt": 2000000,
- "anteil": 0.38925,
- "erreicht_bis": 83892500000000000,
- "zahlen_pro_s": 12368862279,
- "fertig_ca": "2026-12-04T06:52+01:00",
+ "anteil": 0.390045,
+ "erreicht_bis": 83900445000000000,
+ "zahlen_pro_s": 12433864434,
+ "fertig_ca": "2026-12-04T06:09+01:00",
  "naechster_bereich": 70000000000000000,
  "treffer": [
   {
@@ -2549,6 +2549,14 @@
   {
    "luecke": 904,
    "start": 83891328382717747
+  },
+  {
+   "luecke": 916,
+   "start": 83893115666223187
+  },
+  {
+   "luecke": 900,
+   "start": 83894513645329973
   }
  ]
 }
